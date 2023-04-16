@@ -12,8 +12,4 @@ jobs:
         run: |
           # npm install
           npx @11ty/eleventy
-          aws s3 cp \
-            --recursive \
-            --acl public-read \
-            --region eu-west-1 \ 
-            ./_site/ s3://clydevalleyhorsearchers/
+          aws s3 cp ./_site s3://clydevalleyhorsearchers/ --recursive --acl public-read --region eu-west-1 \ 
