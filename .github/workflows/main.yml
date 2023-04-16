@@ -16,4 +16,4 @@ jobs:
             --recursive \
             --acl public-read \
             --region eu-west-1 \ 
-            ./_site/ [s3://clydevalleyhorsearchers/] 
+            ./_site/ s3://clydevalleyhorsearchers/
