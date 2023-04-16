@@ -10,6 +10,5 @@ jobs:
           AWS_ACCESS_KEY_ID: \{\%\- raw \-\%\}$\{\%\- endraw \-\%\}
           AWS_SECRET_ACCESS_KEY: \{\%\- raw \-\%\}$\{\%\- endraw \-\%\}
         run: |
-          # npm install
           npx @11ty/eleventy
           aws s3 cp ./_site s3://clydevalleyhorsearchers/ --recursive
