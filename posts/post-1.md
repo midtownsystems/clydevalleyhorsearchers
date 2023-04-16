@@ -1,5 +1,4 @@
 ---
-title: Post Title
-___
-
-# Title 
+title: Post 1
+---
+Post content.
