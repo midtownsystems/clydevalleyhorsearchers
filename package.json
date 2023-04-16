@@ -19,5 +19,8 @@
   "homepage": "https://github.com/midtownsystems/clydevalleyhorsearchers#readme",
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1"
+  },
+  "dependencies": {
+    "@11ty/eleventy-plugin-bundle": "^1.0.4"
   }
 }
