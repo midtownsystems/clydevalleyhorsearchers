@@ -11,4 +11,4 @@ jobs:
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
         run: |
           npx @11ty/eleventy
-          aws s3 cp ./_site s3://clydevalleyhorsearchers/ --recursive
+          aws s3 cp ./_site s3://clydevalleyhorsearchers/ --recursive --acl public-read --region eu-west-1
