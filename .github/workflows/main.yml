@@ -1,0 +1,19 @@
+name: s3 push
+on: [pull_request]
+jobs:
+  build_deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - name: up
+        env:
+          AWS_ACCESS_KEY_ID: \{\%\- raw \-\%\}$\{\%\- endraw \-\%\}
+          AWS_SECRET_ACCESS_KEY: \{\%\- raw \-\%\}$\{\%\- endraw \-\%\}
+        run: |
+          npm install
+          npm run build
+          aws s3 cp \
+            --recursive \
+            --acl public-read \
+            --region eu-west-1 \ 
+            ./_site/ [s3://clydevalleyhorsearchers] 
