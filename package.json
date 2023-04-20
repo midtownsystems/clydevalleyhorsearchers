@@ -1,0 +1,32 @@
+{
+  "name": "eleventy",
+  "version": "2.0.1",
+  "description": "[**Demo**](https://once-eleventy.netlify.app/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "ELEVENTY_ENV=production npx @11ty/eleventy",
+    "serve": "ELEVENTY_ENV=development npx @11ty/eleventy --serve"
+  },
+  "keywords": [],
+  "author": "sc",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  },
+  "dependencies": {
+    "clean-css": "^5.1.2",
+    "confetti": "^1.1.2",
+    "eleventy-plugin-purgecss": "^0.1.1",
+    "html-minifier": "^4.0.0",
+    "terser": "^5.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/midtownsystems/once_cvha.git"
+  },
+  "bugs": {
+    "url": "https://github.com/midtownsystems/once_cvha/issues"
+  },
+  "homepage": "https://github.com/midtownsystems/once_cvha#readme"
+}
