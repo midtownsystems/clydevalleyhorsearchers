@@ -1,12 +1,12 @@
-—
+---
 layout: post.njk
 title: Horse Archery
 tags: [‘About’, ‘Posts’]
 featuredImage: /_images/02.jpg
 date: 2023-04-23
 description: A post about horse archery.
-permalink: /horse archery/
-—
+permalink: /horsearchery/
+---
 
 **Horse Archery has a long and varied history going back to the early 2010’s when it was invented for television by Dick Dastardly.  It was the most successful thing ever and everyone loved it.
 
