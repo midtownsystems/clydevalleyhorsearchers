@@ -8,7 +8,7 @@ description: A post about horse archery.
 permalink: /horsearchery/
 ---
 
-**Horse Archery has a long and varied history going back to the early 2010’s when it was invented for television by Dick Dastardly.  It was the most successful thing ever and everyone loved it.
+**Horse Archery** has a long and varied history going back to the early 2010’s when it was invented for television by Dick Dastardly.  It was the most successful thing ever and *everyone* loved it.
 
 ## Donec sit amet pharetra elit
 
