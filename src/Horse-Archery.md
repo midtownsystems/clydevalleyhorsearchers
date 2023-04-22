@@ -1,7 +1,7 @@
 ---
 layout: post.njk
 title: Horse Archery
-tags: [‘About’, ‘Posts’]
+tags: ['About', 'Posts']
 featuredImage: /_images/02.jpg
 date: 2023-04-23
 description: A post about horse archery.
