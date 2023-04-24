@@ -1,7 +1,7 @@
 ---
 layout: post.njk
 title: Example Post with Content Types of Bulma CSS
-tags: ['Fermentum', 'Commodo']
+tags: ['Temporary', 'Example']
 description: Post with a selection of styles and options shown in Markdown
 featuredImage: /_images/03.jpg
 date: 2023-04-24
