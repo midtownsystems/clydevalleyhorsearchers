@@ -1,10 +1,10 @@
 ---
 layout: post.njk
-title: Post with Content Types of Bulma CSS
-tags: ['Fermentum', 'Commodo']
-description: Etiam ut risus sagittis, posuere mi at, congue dui. Sed in turpis ut felis bibendum blandit non sit amet ipsum. Etiam mattis metus sed felis cursus ultricies
+title: Example Post with Content Types of Bulma CSS
+tags: ['Temporary', 'Example']
+description: Post with a selection of styles and options shown in Markdown
 featuredImage: /_images/03.jpg
-date: 2021-12-30
+date: 2023-04-24
 ---
 
 # Title H1
