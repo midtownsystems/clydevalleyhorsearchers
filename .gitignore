@@ -1,2 +1,8 @@
 node_modules/
 _site
+src/.obsidian/app.json
+src/.obsidian/appearance.json
+src/.obsidian/core-plugins-migration.json
+src/.obsidian/workspace.json
+src/.obsidian/hotkeys.json
+src/.obsidian/core-plugins.json
