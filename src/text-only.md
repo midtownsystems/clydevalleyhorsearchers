@@ -1,10 +1,10 @@
 ---
 layout: post.njk
-title: Just Text and the new Logo
+title: Welcome to the Club
 tags: ['About', 'Posts'] 
-date: 2023-05-05
+date: 2023-01-01
 description: A post with just text
 permalink: /textonly/
 ---
 
-**What Happens With No Images** is what this post is about - does it display, does it break?  It's a mystery...
+**This is the intro post** with the new scaled logo
