@@ -1,8 +1,8 @@
 ---
 layout: post.njk
-title: Just the Text
+title: Just Text and the new Logo
 tags: ['About', 'Posts'] 
-date: 2023-04-23
+date: 2023-05-05
 description: A post with just text
 permalink: /textonly/
 ---
