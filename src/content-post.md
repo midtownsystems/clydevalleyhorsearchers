@@ -3,7 +3,7 @@ layout: post.njk
 title: Example Post with Content Types of Bulma CSS
 tags: ['Temporary', 'Example']
 description: Post with a selection of styles and options shown in Markdown
-featuredImage: /_images/ClydeValleyHorseArchersMain.png
+featuredImage: /_images/cvha-badge-default.png
 date: 2023-04-24
 ---
 
@@ -39,7 +39,7 @@ Donec quis turpis eu justo suscipit eleifend in at mi. Nulla at lectus molestie,
 4. Element 4
 
 ## Images
-![imagen](/_images/02.jpg)
+![imagen](/_images/ClydeValleyHorseArchersMain.png)
 
 
 ## Table
