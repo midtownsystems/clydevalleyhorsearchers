@@ -3,7 +3,7 @@ layout: post.njk
 title: Example Post with Content Types of Bulma CSS
 tags: ['Temporary', 'Example']
 description: Post with a selection of styles and options shown in Markdown
-featuredImage: /_images/03.jpg
+featuredImage: /_images/ClydeValleyHorseArchersMain.png
 date: 2023-04-24
 ---
 
@@ -15,6 +15,8 @@ date: 2023-04-24
 ###### Title H6
 
 ## Paragraphs
+
+Note: Bulma CSS is the main formatting engine for the site
 
 Etiam ut risus sagittis, posuere mi at, congue dui. Sed in turpis ut felis bibendum blandit non sit amet ipsum. Etiam mattis metus sed felis cursus ultricies. Donec varius lectus maximus orci mattis sagittis.
 
