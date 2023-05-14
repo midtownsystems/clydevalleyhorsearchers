@@ -11,7 +11,7 @@ permalink: /horsearchery/
 **Mounted archery** dates back thousands of years, with artifacts depicting the skill of horse archers dating back to 1400BCE in the Middle East, with similarly long histories in India, the Western Steppe and the Far East.
 
 
-Today, horse archery is a worldwide sport with one of the governing bodies being the IHAA. Under the umbrella of the IHAA, the sport in the UK is overseen by the BHAA. Follow these links for more information about the [IHAA](https://www.ihaa.org) & [BHAA]((https://bhaa.org).
+Today, horse archery is a worldwide sport with one of the governing bodies being the IHAA. Under the umbrella of the IHAA, the sport in the UK is overseen by the BHAA. Follow these links for more information about the [IHAA](https://www.ihaa.org) & [BHAA](https://bhaa.org).
 
 The BHAA has developed a rigorous system of coaching and archer qualifications in conjunction with EQL, who work with the BHS. As such, registered coaches also hold first aid qualifications, safeguarding certification, are DBS checked and insured. 
 
