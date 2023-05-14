@@ -4,20 +4,23 @@ title: Horse Archery
 tags: ['About', 'Posts']
 featuredImage: /_images/mongols.jpg
 date: 2023-04-23
-description: A post about horse archery.
+description: About horse archery.
 permalink: /horsearchery/
 ---
 
-**Horse Archery** has a long and varied history going back to the early 2010’s when it was invented for television by Dick Dastardly.  It was the most successful thing ever and *everyone* loved it.
+**Mounted archery** dates back thousands of years, with artifacts depicting the skill of horse archers dating back to 1400BCE in the Middle East, with similarly long histories in India, the Western Steppe and the Far East.
 
-## Donec sit amet pharetra elit
 
-Mauris non purus fermentum lectus facilisis egestas in sit amet risus. Maecenas sit amet accumsan odio, vitae euismod ipsum. Donec congue ligula ac erat auctor tristique. Sed ac ligula congue, congue sapien vel, varius nisi. Duis blandit eu orci a dictum. Morbi varius ipsum ut nunc tincidunt fermentum. Morbi orci sapien, aliquet sed scelerisque sed, molestie at lectus. Nulla consequat tellus ac cursus ultricies. Suspendisse eu vehicula purus. [Sed non mollis dolor](https://wikipedia.org), et iaculis velit. Fusce commodo luctus nisi a venenatis. Curabitur ut pulvinar magna, vitae ullamcorper risus. Duis at metus non velit viverra luctus ac et nunc. Nulla elit felis, volutpat cursus metus ut, porttitor commodo enim. Aenean nibh odio, lacinia dignissim nunc quis, pretium pellentesque ligula.
+Today, horse archery is a worldwide sport with one of the governing bodies being the IHAA. Under the umbrella of the IHAA, the sport in the UK is overseen by the BHAA. Follow these links for more information about the [IHAA](https://www.ihaa.org) & [BHAA]((https://bhaa.org).
 
-## Sed imperdiet diam in velit
+The BHAA has developed a rigorous system of coaching and archer qualifications in conjunction with EQL, who work with the BHS. As such, registered coaches also hold first aid qualifications, safeguarding certification, are DBS checked and insured. 
 
-Vivamus vel tempus urna. Sed imperdiet diam in velit commodo placerat. Phasellus lacinia vitae mi a efficitur. Etiam in tincidunt dui. Fusce eget est consequat, malesuada mauris at, finibus risus. Nunc ornare pharetra lacinia. Maecenas ipsum nisl, tempor eget facilisis ut, aliquet at urna. Donec a feugiat elit. Duis pellentesque porttitor pellentesque. Cras et sapien eget purus elementum malesuada.
+Mounted archery is a lot of fun, and involves learning new skills as a rider and for your equine partner. Any type or breed of horse or pony is be suitable and are trained using gradual desensitisation techniques, with the individual horse dictating the pace of training. Horse archery is mostly carried out in straight lines, so not hard on horses physically and the skills learned can really enhance your partnership. Horse archery can be practiced purely for the satisfaction of learning and acquiring new skills, or for competition and/or for progressing through the BHAA system of qualifications and grading. 
 
-### Suspendisse eu vehicula purus. Sed non mollis dolor, et iaculis velit
+No special tack is required although a riding hat is mandatory (safety standard  PAS015-2011 with a BSI kite mark or equivalent) but all archery equipment is supplied until archers are ready to get their own.
 
-Donec congue ligula ac erat auctor tristique. Sed ac ligula congue, congue sapien vel, varius nisi. Duis blandit eu orci a dictum. Morbi varius ipsum ut nunc tincidunt fermentum. Morbi orci sapien, aliquet sed scelerisque sed, molestie at lectus. Nulla consequat tellus ac cursus ultricies. Suspendisse eu vehicula purus. Sed non mollis dolor, et iaculis velit. Fusce commodo luctus nisi a venenatis. Curabitur ut pulvinar magna, vitae ullamcorper risus.
+![imagen](/_images/francesca-1.jpg)
+
+CVHA is a not-for-profit club that aims for quality coaching in a safe environment at a reasonable cost for club members. Francesca is the club’s resident coach and holds the BHAA Club Coach qualification and is also a BHSAI. Clyde Valley Horse Archers aims to support local horse archers, whatever their aims, with regular mounted archery and ground archery sessions. 
+
+If you’d like to find out more or come to a club session, email us at Francesca @ clydevalleyhorsearechery.org
