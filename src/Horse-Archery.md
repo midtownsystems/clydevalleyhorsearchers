@@ -1,6 +1,6 @@
 ---
 layout: post.njk
-title: Horse Archery
+title: About Horse Archery
 tags: ['About', 'Posts']
 featuredImage: /_images/francesca-2.jpg
 date: 2023-04-23
@@ -11,7 +11,7 @@ permalink: /horsearchery/
 **Mounted archery** dates back thousands of years, with artifacts depicting the skill of horse archers dating back to 1400BCE in the Middle East, with similarly long histories in India, the Western Steppe and the Far East.
 
 
-Today, horse archery is a worldwide sport with one of the governing bodies being the IHAA. Under the umbrella of the IHAA, the sport in the UK is overseen by the BHAA. Follow these links for more information about the [IHAA](https://www.ihaa.org) & [BHAA](https://bhaa.org).
+Today, horse archery is a worldwide sport with one of the governing bodies being the IHAA. Under the umbrella of the IHAA, the sport in the UK is overseen by the BHAA. Follow these links for more information about the [IHAA](https://www.ihaa.info/index.html) and [BHAA](https://www.bhaa.org.uk/)
 
 The BHAA has developed a rigorous system of coaching and archer qualifications in conjunction with EQL, who work with the BHS. As such, registered coaches also hold first aid qualifications, safeguarding certification, are DBS checked and insured. 
 
@@ -21,6 +21,3 @@ No special tack is required although a riding hat is mandatory (safety standard 
 
 ![imagen](/_images/francesca-1.jpg)
 
-CVHA is a not-for-profit club that aims for quality coaching in a safe environment at a reasonable cost for club members. Francesca is the club’s resident coach and holds the BHAA Club Coach qualification and is also a BHSAI. Clyde Valley Horse Archers aims to support local horse archers, whatever their aims, with regular mounted archery and ground archery sessions. 
-
-If you’d like to find out more or come to a club session, email us at Francesca @ clydevalleyhorsearechery.org
