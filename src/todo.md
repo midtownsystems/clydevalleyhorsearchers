@@ -10,6 +10,7 @@ date: 2023-05-05
 **ToDo**
 
 * Really need to work out how to fix the ratio of the images for post hears and 'hero' images
+* Fix the main banner
 * ~~Tidy up the social media stuff~~
 * ~~Work out why the deployment isn't working~~
 * Make a couple of 'News' and 'Events' style info banners
