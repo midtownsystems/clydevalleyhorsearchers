@@ -1,10 +1,10 @@
 ---
 layout: post.njk
-title: Post with Content Types of Bulma CSS
-tags: ['Fermentum', 'Commodo']
-description: Etiam ut risus sagittis, posuere mi at, congue dui. Sed in turpis ut felis bibendum blandit non sit amet ipsum. Etiam mattis metus sed felis cursus ultricies
-featuredImage: /_images/03.jpg
-date: 2021-12-30
+title: Example Post with Content Types of Bulma CSS
+tags: ['Temporary', 'Example']
+description: Post with a selection of styles and options shown in Markdown
+featuredImage: /_images/cvha-badge-default.png
+date: 2023-04-24
 ---
 
 # Title H1
@@ -15,6 +15,8 @@ date: 2021-12-30
 ###### Title H6
 
 ## Paragraphs
+
+Note: Bulma CSS is the main formatting engine for the site
 
 Etiam ut risus sagittis, posuere mi at, congue dui. Sed in turpis ut felis bibendum blandit non sit amet ipsum. Etiam mattis metus sed felis cursus ultricies. Donec varius lectus maximus orci mattis sagittis.
 
@@ -37,7 +39,7 @@ Donec quis turpis eu justo suscipit eleifend in at mi. Nulla at lectus molestie,
 4. Element 4
 
 ## Images
-![imagen](/_images/02.jpg)
+![imagen](/_images/ClydeValleyHorseArchersMain.png)
 
 
 ## Table

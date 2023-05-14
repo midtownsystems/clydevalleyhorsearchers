@@ -1,5 +1,7 @@
 # Clyde Valley Horse Archers
 
+[![s3 push](https://github.com/midtownsystems/clydevalleyhorsearchers/actions/workflows/main.yml/badge.svg)](https://github.com/midtownsystems/clydevalleyhorsearchers/actions/workflows/main.yml)
+
 Based on the ONCE - Eleventy Theme made with:
 - [Eleventy](https://www.11ty.dev/)
 - [BulmaCSS](https://bulma.io/)
