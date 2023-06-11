@@ -6,9 +6,9 @@
   "logoUrl": "/_images/cvha.png",
   "search": true,
   "showCookiesAdvice": false,
-  "cookiesAdviceText": "Cookies advice text",
-  "cookiesAdviceMoreInfoAnchor": "More Info",
-  "cookiesAdviceMoreInfoUrl": "/contact/",
+  "cookiesAdviceText": "",
+  "cookiesAdviceMoreInfoAnchor": "",
+  "cookiesAdviceMoreInfoUrl": "",
   "googleAnalyticsID": "",
   "footerLinks": [
     {
