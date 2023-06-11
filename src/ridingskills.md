@@ -4,7 +4,7 @@ title: Riding skills for archery
 featuredImage: /_images/5174024d-1d8a-463c-94cd-3a026bad1b0a.jpg
 tags: ['About'] 
 date: 2023-06-11
-description: Clyde Valley Horse Archers
+description: Riding Skills and Archery
 permalink: /risingskillsforarchery/
 ---
 

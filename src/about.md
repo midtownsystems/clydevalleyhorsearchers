@@ -4,7 +4,7 @@ title: About Horse Archery
 tags: ['About']
 featuredImage: /_images/francesca-2.jpg
 date: 2023-04-23
-description: About horse archery.
+description: History and the Sport Today
 permalink: /about/
 ---
 
