@@ -26,13 +26,6 @@
       "url": "/contact/"
     }
   ],
-  "navbarButtons": [
-    {
-      "anchor": "Suscribe",
-      "class": "is-small is-danger",
-      "url": "about"
-    }
-  ],
   "social": {
     "facebook": "https://facebook.com/profile.php?id=100092105130986&eav=AfYaEyRFLDE8B4r0Xgs4ujz_xHkf-kHR7O-IVTLB9Pu-y2qIgIrZfYPGgGEDN2b3K24&tsid=0.8913046025426908&source=result"
   },

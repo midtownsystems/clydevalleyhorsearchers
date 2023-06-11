@@ -1,7 +1,7 @@
 ---
 layout: post.njk
 title: Welcome to the Club
-tags: ['About', 'Posts'] 
+tags: ['About'] 
 date: 2023-01-01
 description: Clyde Valley Horse Archery
 permalink: /textonly/
