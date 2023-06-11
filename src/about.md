@@ -20,5 +20,3 @@ Mounted archery is a lot of fun, and involves learning new skills as a rider and
 No special tack is required although a riding hat is mandatory (safety standard  PAS015-2011 with a BSI kite mark or equivalent) but all archery equipment is supplied until archers are ready to get their own.
 
 ![imagen](/_images/francesca-1.jpg)
-
-We do not collect or store cookies on this site.
