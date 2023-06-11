@@ -10,7 +10,7 @@ CVHA is a not-for-profit club that aims for quality coaching in a safe environme
 
 If you’d like to find out more or come to a club session, email Francesca _at_ clydevalleyhorsearchers _dot_ org
 
-We also have a [Facebook page](https://m.facebook.com/profile.php?id=100092105130986&eav=AfYaEyRFLDE8B4r0Xgs4ujz_xHkf-kHR7O-IVTLB9Pu-y2qIgIrZfYPGgGEDN2b3K24&tsid=0.8913046025426908&source=result) and a [WhatsApp group](https://www.whatsapp.com).
+We also have a [Facebook page](https://www.facebook.com/people/Clyde-Valley-Horse-Archers/100092105130986/) and a [WhatsApp group](https://www.whatsapp.com).
 
 ![imagen](/_images/ClydeValleyHorseArchersMain.png)
 
