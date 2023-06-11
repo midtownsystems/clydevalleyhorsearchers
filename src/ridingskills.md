@@ -4,7 +4,7 @@ title: Riding skills for archery
 tags: ['About', 'Posts'] 
 date: 2023-06-11
 description: Clyde Valley Horse Archers
-permalink: /textonly/
+permalink: /risingskillsforarchery/
 ---
 
 # {{ title }}

@@ -4,7 +4,7 @@ title: Horse Archery, Ground Archery & Horse bows
 tags: ['About', 'Posts'] 
 date: 2023-06-11
 description: Clyde Valley Horse Archers
-permalink: /textonly/
+permalink: /horsegroundnandbows/
 ---
 
 Horse archery uses only non-centre shot bows, with centre shot, release aids, sights etc not allowed in the sport. As horse archers shoot off the hand, only feather fletches are used with tape or bow gloves for protection. Protective gear is provided by the club until archers are ready to purchase their own.
