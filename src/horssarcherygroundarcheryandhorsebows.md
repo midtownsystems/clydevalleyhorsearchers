@@ -1,6 +1,6 @@
 ---
 layout: post.njk
-title: Horse Archery, Ground Archery & Horse bows
+title: Horse Archery, Ground Archery & Horse Bows
 tags: ['About'] 
 featuredImage: /_images/b5193450-819f-4c00-8e8e-90dfd72c5e90.jpg
 date: 2023-06-11
