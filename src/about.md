@@ -21,3 +21,4 @@ No special tack is required although a riding hat is mandatory (safety standard 
 
 ![imagen](/_images/francesca-1.jpg)
 
+We do not collect or store cookies on this site.
