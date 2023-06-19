@@ -17,6 +17,6 @@ The BHAA has developed a rigorous system of coaching and archer qualifications i
 
 Mounted archery is a lot of fun, and involves learning new skills as a rider and for your equine partner. Any type or breed of horse or pony is be suitable and are trained using gradual desensitisation techniques, with the individual horse dictating the pace of training. Horse archery is mostly carried out in straight lines, so not hard on horses physically and the skills learned can really enhance your partnership. Horse archery can be practiced purely for the satisfaction of learning and acquiring new skills, or for competition and/or for progressing through the BHAA system of qualifications and grading. 
 
-No special tack is required although a riding hat is mandatory (safety standard  PAS015-2011 with a BSI kite mark or equivalent) but all archery equipment is supplied until archers are ready to get their own.
+No special tack is required although a riding hat is mandatory (safety standard  PAS015-2011 with a BSI kite mark or equivalent) but some archery equipment may be borrowed until archers are ready to get their own.
 
 ![imagen](/_images/francesca-1.jpg)
