@@ -2,7 +2,7 @@
 layout: post.njk
 title: Welcome to the Club
 tags: ['About'] 
-date: Jun 25, 2023
+date: 2023-07-01
 description: Clyde Valley Horse Archers
 permalink: /welcometotheclub/
 ---
