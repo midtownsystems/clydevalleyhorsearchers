@@ -83,7 +83,7 @@ module.exports = function (eleventyConfig) {
     //Order Post by Date
     eleventyConfig.addCollection("orderByDate", function(collectionApi) {
         return collectionApi.getAll().sort(function(a, b) {
-          return b.date - a.date;
+          return a.date - b.date;
         });
     });
 
