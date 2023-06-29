@@ -1,8 +1,8 @@
-—
+--- 
 layout: post-minimal.njk
 title: Terms and Conditions
 eleventyExcludeFromCollections: true
-—
+---
 
 # {{ title }}
 
