@@ -23,6 +23,10 @@
     {
       "anchor": "Contact",
       "url": "/contact/"
+    },
+    {
+       "anchor": "Terms and Conditions",
+       "url": "/termsandconditions/"
     }
   ],
   "social": {
