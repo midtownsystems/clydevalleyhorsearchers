@@ -7,13 +7,15 @@ eleventyExcludeFromCollections: true
 # {{ title }}
 
 ## Bookings & Payment
- 
-1. Payment in full is required to secure a participant’s place at any event/session held by the CVHA.
-2. Payment in full includes venue fees and each venue has a cancellation policy with cancellation fees. Therefore, payment in full includes a non-refundable portion to cover these fees.
-3. Wherever possible, cancellation of the event will lead to transfer of venue fees for those participants to a later date but this cannot be guaranteed.
-4. Wherever possible, cancellation of the event will lead to a refund of visiting coach’s fees to participants where applicable.
-5. Wherever possible, cancellation by a participant will lead to transfer of payment in full to an event at a later date but this cannot be guaranteed.
-6. Publicised fees are estimated on a set number of participants. Where this set number of participants cannot be obtained by 10 days before the event, participants that have booked will be asked if they are willing to continue with the increased cost. If they are not willing to continue with the event, the event will be cancelled and payments carried forward or refunded.
+
+1. BHAA membership is required for all participants, ground only and riding, for all events unless explicitly stated otherwise. If you are unsure which level is suitable for you, please ask CVHA who will adise.
+2. Payment in full is required to secure a participant’s place at any event/session held by the CVHA.
+3. Payment in full includes the venue fees and each venue has a cancellation policy with cancellation fees. Therefore, payment in full includes a non-refundable portion to cover these fees.
+4. Wherever possible, cancellation of the event will lead to transfer of venue fees for those participants to a later date but this cannot be guaranteed.
+5. Cancellation of the event by CVHA will lead to a refund of coach’s fees to participants.
+6. Wherever possible, cancellation by a participant will lead to transfer of payment in full to an event at a later date but this cannot be guaranteed.
+7. Publicised fees are calculated on a set number of participants sharing the venue fees. Where this set number of participants cannot be obtained by 10 days before the event, participants that have booked will be asked if they are willing to continue with the increased cost. If they are not willing to continue with the event, the event will be cancelled and payments carried forward or refunded.
+8. All under 16s must be accompanied by an adult.
  
 ## Horses, Riding and Venue Etiquette.
  
