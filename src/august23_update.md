@@ -1,11 +1,11 @@
 ---
 layout: post.njk
-title: What’s been happening?
+title: What’s been happening
 featuredImage: /_images/IMG_4435.jpeg
 tags: ['Post'] 
-date: {{date}}
+date: 2023-08-13
 description: August Update
-permalink: /082023/
+permalink: /8Aug23/
 ---
 CVHA has now introduced 6 new horse archers to the sport and has more beginners booked up for September. 
 
