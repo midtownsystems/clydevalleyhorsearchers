@@ -1,6 +1,6 @@
 ---
 layout: post.njk
-title: What’s been happening
+title: What’s been happening?
 featuredImage: /_images/IMG_4435.jpeg
 tags: ['Post'] 
 date: 2023-08-13
@@ -32,7 +32,5 @@ So what’s next? We have a beginners ground archery session on September 2nd (s
 ![imagen](/_images/IMG_4375.jpeg)
 
 ![imagen](/_images/IMG_4383.jpeg)
-
-![imagen](/_images/IMG_4394.jpeg)
 
 ![imagen](/_images/IMG_4270.jpeg)
