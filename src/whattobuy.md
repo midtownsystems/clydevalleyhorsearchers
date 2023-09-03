@@ -3,7 +3,7 @@ layout: post.njk
 title: What to Buy
 tags: ['equipment', 'info']
 description: A guide to purchasing equipment
-featuredImage: /_images/cvha-badge-default.png
+featuredImage: /_images/equipment-1.png
 date: 2023-09-03
 ---
 
