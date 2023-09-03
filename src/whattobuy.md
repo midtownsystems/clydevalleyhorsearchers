@@ -11,31 +11,23 @@ Beginners kit for horse archery is a bit of a minefield- a lot of standard arche
 
 Arm guards- long ones are best for beginner archers and you can’t go far wrong, some links below 
 
-[https://www.redfrogstore.co.uk/products/maximal-long-adult-armguard-24cm](https://www.redfrogstore.co.uk/products/maximal-long-adult-armguard-24cm
+[https://www.redfrogstore.co.uk/products/maximal-long-adult-armguard-24cm](https://www.redfrogstore.co.uk/products/maximal-long-adult-armguard-24cm)
 
-[https://www.redfrogstore.co.uk/products/new-buck-trail-archery-traditional-leather-long-adult-adjustable-arm-guard](https://www.redfrogstore.co.uk/products/new-buck-trail-archery-traditional-leather-long-adult-adjustable-arm-guard
-  
+[https://www.redfrogstore.co.uk/products/new-buck-trail-archery-traditional-leather-long-adult-adjustable-arm-guard](https://www.redfrogstore.co.uk/products/new-buck-trail-archery-traditional-leather-long-adult-adjustable-arm-guard)
 
 Shooting gloves-most will be for right handed archers, beware if you are left handed. You can use tape but personally I prefer a glove. 
 
-[https://phoenix-archery.co.uk/shop/buck-trail-leather-shooting-gloves/](https://phoenix-archery.co.uk/shop/buck-trail-leather-shooting-gloves
-  
+[https://phoenix-archery.co.uk/shop/buck-trail-leather-shooting-gloves/](https://phoenix-archery.co.uk/shop/buck-trail-leather-shooting-gloves)
 
 Arrows: arrows can get very technical and as you are shooting low powered bows, you need suitable arrows for safety. Some nice starter horse archery arrows can be found below and you can choose your fletch colours. The Easton Jazz shaft 1816 are suitable for sub 20lb bows such as the ones listed below-ask Fran to talk you through the order. 
 
-[https://www.clickersarchery.co.uk/products/clickers-archery-horseback-archery-metal-arrow-single/](https://www.clickersarchery.co.uk/products/clickers-archery-horseback-archery-metal-arrow-single
+[https://www.clickersarchery.co.uk/products/clickers-archery-horseback-archery-metal-arrow-single/](https://www.clickersarchery.co.uk/products/clickers-archery-horseback-archery-metal-arrow-single)
 
 Bows: low poundage is better, below 20lbs. The easiest and cheapest option is a Rolan Snake bow-the 50” youth one at 16lbs is the bow you’ll have used at CVHA. These can be purchased from Clickers or Red Frog listed above but be sure to ask them to send them without nocking points. They are generally around £50. 
 
-  
-
 Both the above stores sell the White Feather Fairy Korean horse bow for about £160. These go down to 20lbs and are another good choice. 
 
-  
-
-Clickers also stock a 48” Youth Korean bow which can be ordered in a 15 or 20lb weight which would be a good option if you want the lighter draw weight or like a more traditional look. 
-
-  
+Clickers also stock a 48” Youth Korean bow which can be ordered in a 15 or 20lb weight which would be a good option if you want the lighter draw weight or like a more traditional look.   
 
 If you don’t mind waiting a few weeks and really want a traditional looking Asiatic bow, ordering from Alibow in China is recommended. Their fibreglass bows have an excellent reputation and are hard to beat for value for money.  Their Mongol “Ghengis Khan” bow has a suitable long draw length and can be ordered in at 15 or 20lb for $100 plus shipping. I have 2 Alibows and looking to get another! Again, have a chat with Fran about the order before you put it through.
 
