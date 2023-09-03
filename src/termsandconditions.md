@@ -7,7 +7,7 @@ eleventyExcludeFromCollections: true
 # {{ title }}
 
 ## Bookings & Payment
-1. BHAA membership is required for all participants, ground only and riding, for all events unless explicitly stated otherwise. If you are unsure which level is suitable for you, please ask CVHA who will adise.
+1. BHAA membership is required for all participants, ground only and riding, for all events unless explicitly stated otherwise. If you are unsure which level is suitable for you, please ask CVHA who will advise.
 2. Payment in full is required to secure a participant’s place at any event/session held by the CVHA.
 3. Payment in full includes the venue fees and each venue has a cancellation policy with cancellation fees. Therefore, payment in full includes a non-refundable portion to cover these fees.
 4. Wherever possible, cancellation of the event will lead to transfer of venue fees for those participants to a later date but this cannot be guaranteed.
