@@ -11,13 +11,15 @@ Beginners kit for horse archery is a bit of a minefield - a lot of standard arch
 
 ## Arm guards
 
-Long arm guards are best for beginner archers and you can’t go far wrong, some links below 
+Long arm guards are best for beginner archers and you can’t go far wrong, some links below:
 
 [https://www.redfrogstore.co.uk/products/maximal-long-adult-armguard-24cm](https://www.redfrogstore.co.uk/products/maximal-long-adult-armguard-24cm)
 
 [https://www.redfrogstore.co.uk/products/new-buck-trail-archery-traditional-leather-long-adult-adjustable-arm-guard](https://www.redfrogstore.co.uk/products/new-buck-trail-archery-traditional-leather-long-adult-adjustable-arm-guard)
 
-Shooting gloves - most will be for right handed archers, beware if you are left handed. You can use tape but personally I prefer a glove. 
+## Shooting gloves
+
+Most will be for right handed archers, beware if you are left handed. You can use tape but personally I prefer a glove. 
 
 [https://phoenix-archery.co.uk/shop/buck-trail-leather-shooting-gloves/](https://phoenix-archery.co.uk/shop/buck-trail-leather-shooting-gloves)
 
