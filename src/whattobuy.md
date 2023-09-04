@@ -13,21 +13,21 @@ Beginners kit for horse archery is a bit of a minefield - a lot of standard arch
 
 Long arm guards are best for beginner archers and you can’t go far wrong, some links below:
 
-[https://www.redfrogstore.co.uk/products/maximal-long-adult-armguard-24cm](https://www.redfrogstore.co.uk/products/maximal-long-adult-armguard-24cm)
+[Red Frog - Armguard 24cm](https://www.redfrogstore.co.uk/products/maximal-long-adult-armguard-24cm)
 
-[https://www.redfrogstore.co.uk/products/new-buck-trail-archery-traditional-leather-long-adult-adjustable-arm-guard](https://www.redfrogstore.co.uk/products/new-buck-trail-archery-traditional-leather-long-adult-adjustable-arm-guard)
+[Red Frog - Adjustable Armguard](https://www.redfrogstore.co.uk/products/new-buck-trail-archery-traditional-leather-long-adult-adjustable-arm-guard)
 
 ## Shooting gloves
 
 Most will be for right handed archers, beware if you are left handed. You can use tape but personally I prefer a glove. 
 
-[https://phoenix-archery.co.uk/shop/buck-trail-leather-shooting-gloves/](https://phoenix-archery.co.uk/shop/buck-trail-leather-shooting-gloves)
+[Phoenix Archery - Gloves](https://phoenix-archery.co.uk/shop/buck-trail-leather-shooting-gloves)
 
 ## Arrows
 
 Arrows can get very technical and as you are shooting low powered bows, you need suitable arrows for safety. Some nice starter horse archery arrows can be found below and you can choose your fletch colours. The Easton Jazz shaft 1816 are suitable for sub 20lb bows such as the ones listed below - ask me to talk you through the order. 
 
-[https://www.clickersarchery.co.uk/products/clickers-archery-horseback-archery-metal-arrow-single/](https://www.clickersarchery.co.uk/products/clickers-archery-horseback-archery-metal-arrow-single)
+[Clicks Archery - Horseback Arrows](https://www.clickersarchery.co.uk/products/clickers-archery-horseback-archery-metal-arrow-single)
 
 ## Bows 
 
@@ -39,7 +39,7 @@ Clickers also stock a 48” Youth Korean bow which can be ordered in a 15 or 20l
 
 If you don’t mind waiting a few weeks and really want a traditional looking Asiatic bow, ordering from Alibow in China is recommended. Their fibreglass bows have an excellent reputation and are hard to beat for value for money.  Their Mongol “Ghengis Khan” bow has a suitable long draw length and can be ordered in at 15 or 20lb for $100 plus shipping. I have 2 Alibows and looking to get another! Again, have a chat with me about the order before you put it through.
 
-[https://www.alibowshop.com/product-page/mongol-genghis-khan](https://www.alibowshop.com/product-page/mongol-genghis-khan)
+[Alibow - Genghis Khan Bow](https://www.alibowshop.com/product-page/mongol-genghis-khan)
 
 ## Quivers
 
@@ -49,10 +49,10 @@ However, if you really want a good working horse archery quiver, Knavish Designs
 
 Knavish Designs have also come up with a horse archery back quiver design which is pretty cool.
 
-[https://www.etsy.com/uk/shop/KnavishDesigns?ref=shop_sugg_market](https://www.etsy.com/uk/shop/KnavishDesigns?ref=shop_sugg_market)
+[Etsy - Knavish Designs](https://www.etsy.com/uk/shop/KnavishDesigns?ref=shop_sugg_market)
 
 ## Books
 
 And if you want to learn more about hba history, techniques and competitions this book is a must.  
 
-[https://www.blurb.co.uk/b/10177403-horseback-archery-ancient-art-to-modern-sport-3rd?fbclid=IwAR3REe1YWgN_5JkWY24pJ_qOTaVWdPbDeDdntQp0MyHYZSVJXRhil4D1lxg](https://www.blurb.co.uk/b/10177403-horseback-archery-ancient-art-to-modern-sport-3rd?fbclid=IwAR3REe1YWgN_5JkWY24pJ_qOTaVWdPbDeDdntQp0MyHYZSVJXRhil4D1lxg)
+[Blurb - Horseback Archery Ancient Art to Modern Sport](https://www.blurb.co.uk/b/10177403-horseback-archery-ancient-art-to-modern-sport-3rd?fbclid=IwAR3REe1YWgN_5JkWY24pJ_qOTaVWdPbDeDdntQp0MyHYZSVJXRhil4D1lxg)
