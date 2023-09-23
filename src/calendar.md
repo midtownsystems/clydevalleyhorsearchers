@@ -9,6 +9,8 @@ date: 2023-09-23
 description: Recent and upcoming events
 permalink: /calendar/
 ---
+# November 2023
+
 | Mon             | Tue             | Wed             | Thu             | Fri             | Sat             | Sun             |
 | --------------- | --------------- | --------------- | --------------- | --------------- | --------------- | --------------- |
 |                 |                 |                 |                 |                 |                 | [1](#20231001)  |
