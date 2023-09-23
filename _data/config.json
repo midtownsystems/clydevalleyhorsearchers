@@ -17,6 +17,10 @@
   ],
   "navbarMenu": [
     {
+      "anchor": "Calendar",
+      "url": "/calendar/"
+    },
+    {
       "anchor": "About",
       "url": "/about/"
     },
