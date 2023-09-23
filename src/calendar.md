@@ -1,5 +1,6 @@
 ---
-layout: post.njk
+layout: post-minimal.njk
+eleventyExcludeFromCollections: true
 title: Events Calendar
 featuredImage: /_images/cvha-badge-default.png
 tags:
