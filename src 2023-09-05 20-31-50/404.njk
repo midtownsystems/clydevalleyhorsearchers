@@ -1,0 +1,33 @@
+---
+title: Oops! Page not Found
+permalink: 404.html
+layout: 404.njk
+eleventyExcludeFromCollections: true
+
+---
+
+
+<div class="section">
+  <div class="container">
+    <div class="has-text-centered my-6">
+      <h1 class="title is-1 is-spaced">Error #404</h1>
+      <h2 class="subtitle is-4">Sorry, but the page you are looking for does not exist.</h2>
+      <a href="/" class="button">Home Page</a>
+    </div>
+  </div>
+</div>
+
+<div class="section">
+  <div class="container">
+    <div class="columns is-variable is-5 is-multiline is-mobile">
+    {# Lastest 3 articles #}
+    {%- for item in collections.all | reverse -%}
+      {% if loop.index0 < 3 %}
+        <div class="column is-one-third-tablet is-full-mobile mb-5">
+          {% include "tarjeta.njk" %}
+        </div>
+      {% endif %}
+    {%- endfor -%}
+  </div>
+  </div>
+</div>

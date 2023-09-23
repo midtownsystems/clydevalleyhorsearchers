@@ -53,6 +53,6 @@ Knavish Designs have also come up with a horse archery back quiver design which 
 
 ## Books
 
-And if you want to learn more about hba history, techniques and competitions this book is a must.  
+And if you want to learn more about HBA history, techniques and competitions this book is a must.  
 
 [Blurb - Horseback Archery Ancient Art to Modern Sport](https://www.blurb.co.uk/b/10177403-horseback-archery-ancient-art-to-modern-sport-3rd?fbclid=IwAR3REe1YWgN_5JkWY24pJ_qOTaVWdPbDeDdntQp0MyHYZSVJXRhil4D1lxg)
