@@ -20,5 +20,5 @@ Recent and Upcoming Events
 |  October Club Event |  22nd October 2023 |  Hyndshawlands  | No Spaces  | Beginners Ground shoot  |
 | BHAA AGM  |  20th November 2023 |  Zoom | Members AGM  | [External Link](https://www.bhaa.org.uk/annual-general-meeting-3pm-on-20th-november/)  |
 |  November Club Event |  26th November 2023 |  Hyndshawlands  | No Spaces  | Beginners Ground shoot  |
-|  December Xmas Event |  17th November 2023 |  Hyndshawlands  |  Spaces  | Beginners Ground shoot  |
+|  December Xmas Event |  17th December 2023 |  Hyndshawlands  |  Spaces  | Beginners Ground shoot  |
 |   |   |   |   |   |
