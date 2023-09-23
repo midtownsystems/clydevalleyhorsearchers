@@ -9,7 +9,7 @@ date: 2023-09-23
 description: Recent and upcoming events
 permalink: /calendar/
 ---
-# October - December 2023
+# September - December 2023
 
 Recent and Upcoming Events
 
