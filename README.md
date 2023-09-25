@@ -10,4 +10,3 @@ Based on the ONCE - Eleventy Theme made with:
 - [PurgeCSS](https://purgecss.com/)
 
 https://github.com/jalediazb/once
-
