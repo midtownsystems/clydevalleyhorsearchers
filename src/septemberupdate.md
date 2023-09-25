@@ -1,15 +1,13 @@
 ---
 layout: post.njk
 title: September Summary
-featuredImage: /_images/cvha-badge-default.png
+featuredImage: /_images/IMG_4837.jpeg
 tags:
   - Post
 date: 2023-09-25
 description: What we've been up to
 permalink: /september2023/
 ---
-
-![imagen](/_images/IMG_4837.jpeg)
 
 So, a busy month with three sessions! 5 new archers introduced to the sport and 5 returning archers practicing their skills. 
 
