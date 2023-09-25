@@ -15,4 +15,4 @@ We also have a [Facebook page](https://www.facebook.com/people/Clyde-Valley-Hors
 ![imagen](/_images/ClydeValleyHorseArchersMain.png)
 
 
-_Please note that we do not store cookies on this site._
+_Please note that we do not store any cookies on this site._
