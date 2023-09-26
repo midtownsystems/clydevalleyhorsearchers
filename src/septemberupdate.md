@@ -1,7 +1,7 @@
 ---
 layout: post.njk
 title: September Summary
-featuredImage: /_images/IMG_4837.jpeg
+featuredImage: /_images/IMG_4837.png
 tags:
   - Post
 date: 2023-09-25
