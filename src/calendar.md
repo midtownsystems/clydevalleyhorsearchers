@@ -21,3 +21,5 @@ Recent and Upcoming Events
 |  November Club Event |  26th November 2023 |  Hyndshawlands  |  Spaces  | Club Session  |
 |  December Xmas Event |  17th December 2023 |  Hyndshawlands  |  Spaces  | Xmas Ground Shoot  |
 |   |   |   |   |   |
+
+(c) 2023
