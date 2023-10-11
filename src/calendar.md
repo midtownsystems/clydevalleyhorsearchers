@@ -22,4 +22,4 @@ Recent and Upcoming Events
 |  December Xmas Event |  17th December 2023 |  Hyndshawlands  |  Spaces  | Xmas Ground Shoot  |
 |   |   |   |   |   |
 
-(c) 2023
+(c) 2023.
