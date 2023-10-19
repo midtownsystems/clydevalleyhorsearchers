@@ -2,7 +2,7 @@
 layout: post.njk
 title: About Horse Archery
 tags: ['About']
-featuredImage: /_images/francesca-2.jpg
+featuredImage: /_images/stock_photo3.jpg
 date: 2023-04-23
 description: History and the Sport Today
 permalink: /about/
@@ -19,4 +19,7 @@ Mounted archery is a lot of fun, and involves learning new skills as a rider and
 
 No special tack is required although a riding hat is mandatory (safety standard  PAS015-2011 with a BSI kite mark or equivalent) but some archery equipment may be borrowed until archers are ready to get their own.
 
-![imagen](/_images/francesca-1.jpg)
+![imagen](/_images/stock_photo2.jpg)
+
+
+_Disclaimer: All additional images on this page sourced as free for public use_
