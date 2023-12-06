@@ -15,7 +15,7 @@
     "@11ty/eleventy": "^2.0.1"
   },
   "dependencies": {
-    "clean-css": "^5.3.2",
+    "clean-css": "^5.3.3",
     "confetti": "^2.0.1",
     "eleventy-plugin-purgecss": "^0.4.0",
     "html-minifier": "^4.0.0",
