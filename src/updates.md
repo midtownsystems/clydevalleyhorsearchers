@@ -1,6 +1,6 @@
 ---
 layout: post.njk
-title: Updates
+title: Future Updates
 tags: ['Post'] 
 date: 2024-11-14
 description: Site Update
