@@ -3,7 +3,7 @@ layout: post.njk
 title: Updates
 featuredImage: 
 tags: ['Post'] 
-date: 20232024-11-14
+date: 2024-11-14
 description: Site Update
 permalink: /siteupdate/
 ---
