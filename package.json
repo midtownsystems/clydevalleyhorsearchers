@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "clean-css": "^5.3.3",
-    "confetti": "^4.1.2",
+    "confetti": "^4.1.4",
     "eleventy-plugin-purgecss": "^0.6.0",
     "html-minifier": "^4.0.0",
     "terser": "^5.48.0"
