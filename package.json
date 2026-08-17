@@ -19,7 +19,7 @@
     "confetti": "^4.1.5",
     "eleventy-plugin-purgecss": "^0.6.0",
     "html-minifier": "^4.0.0",
-    "terser": "^5.49.0"
+    "terser": "^5.50.0"
   },
   "repository": {
     "type": "git",
